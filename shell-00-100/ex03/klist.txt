@@ -1,0 +1,6 @@
+Credentials cache: API:344F14D8-4C52-4570-AFAA-37DB4816EDFE
+        Principal: saksoy@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  4 16:24:40 2021  Sep  5 02:24:40 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Sep  4 16:24:41 2021  Sep  5 02:24:40 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
